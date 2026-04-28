@@ -38,7 +38,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=decki-revota&show_icons=true&theme=tokyonight&hide_border=true" alt="Decki's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-revota&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=decki-revota&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
