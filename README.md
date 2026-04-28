@@ -8,12 +8,18 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies and frameworks
-- 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about anything — I'm happy to help!
-- 📫 How to reach me: update this with your email or social links
-- ⚡ Fun fact: I love turning ideas into code
+- 💻 Full-Stack Developer
+- 💻 Linux Enthusiast
+- 💻 Remote Worker Wannabe
+- 🚶 Solo Traveler Wannabe
+- 📄 Literature Enthusiast
+- 🎥 Movies & Series Enthusiast
+- 🙌 Ten-Finger Typing Enthusiast
+- 🙂 Introvert
+- 🤓 Self Taught
+- 👌 Perfectionist
+- 👍 Idealist
+- 🤝 Open for opportunities and collaborations!
 
 ---
 
